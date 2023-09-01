@@ -6,7 +6,7 @@ Aprenda cómo usar el Image Processing Toolbox (procesamiento de imágenes) para
 
 https://youtu.be/ZZ-XPZcCvCQ
 
-El Live Script deforestacion.mlx procesa múltiples imágenes satelitales del Bosque Nacional Jamanxim tomadas cada 4 años desde 2000 hasta 2016.
+El Live Script deforestacion.mlx procesa múltiples imágenes satelitales del Bosque Nacional Jamanxim tomadas cada 4 años desde 2000 hasta 2020.
 
 Explore el script createMask.m - una función exportada desde el Color Thresholder App que permite convertir la experiencia interactiva con el app en código que se puede usar.
 
