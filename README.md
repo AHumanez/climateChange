@@ -1,6 +1,6 @@
 # 🌍 Procesamiento de Imágenes con MATLAB: Análisis del Cambio Climático
 
-Bienvenid@s a este repositorio creado para el **Seminario de Procesamiento de Imágenes con MATLAB**, donde exploramos cómo las herramientas de MATLAB pueden ayudarnos a visualizar, analizar y entender los efectos del cambio climático usando datos reales.
+Bienvenidos a este repositorio creado para el **Seminario de Procesamiento de Imágenes con MATLAB**, donde exploramos cómo las herramientas de MATLAB pueden ayudarnos a visualizar, analizar y entender los efectos del cambio climático usando datos reales.
 
 ## 📂 Contenido del Repositorio
 
